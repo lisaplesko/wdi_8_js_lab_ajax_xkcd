@@ -20,4 +20,4 @@ When selections of these are clicked, an AJAX request should be sent, and when y
 
 ## Bonus
 
-Create an infinite scroller of XKCD comics for any of these filters of results
+Create an infinite scroller of XKCD comics for any of these filters of results. There are required "limit" and "offset" parameters that you'll need to use. Check the Rails code for details. 
